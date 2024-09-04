@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hitesh Rupani</h1>
-<h3 align="center">A passionate iOS Developer from India.</h3>
+<h3 align="center">A passionate iOS Developer from India</h3>
 
 - 🌱 I’m currently learning **DSA, Java, CoreData, Combine, Flutter and many more...**
 
+- 💬 Ask me about **iOS Development, Swift, SwiftUI, UIKit, Firebase**
+
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/u/1/folders/1tooBcf1SBABhM5oMPGYyZmiJ8KSjhiaX](https://drive.google.com/drive/u/1/folders/1tooBcf1SBABhM5oMPGYyZmiJ8KSjhiaX)
 
-- 💬 Ask me about **Swift, SwiftUI, UIKit, CreateML**
+- 📫 Reach me here **rupanihiteshabc@gmail.com**
 
-- 📫 How to reach me **rupanihiteshabc@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LI9QPdn4HCenBKe1cr6SbW7bOgUFK026/view?usp=sharing](https://drive.google.com/file/d/1LI9QPdn4HCenBKe1cr6SbW7bOgUFK026/view?usp=sharing)
+- 📄 Portfolio: [https://drive.google.com/file/d/1LI9QPdn4HCenBKe1cr6SbW7bOgUFK026/view?usp=sharing](https://drive.google.com/file/d/1LI9QPdn4HCenBKe1cr6SbW7bOgUFK026/view?usp=sharing)
 
 - ⚡ Fun fact **I like golden retrievers and orange cats :)**
 
