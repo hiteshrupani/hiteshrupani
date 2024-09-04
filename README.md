@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **iOS Development, Swift, SwiftUI, UIKit, Firebase**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/u/1/folders/1tooBcf1SBABhM5oMPGYyZmiJ8KSjhiaX](https://drive.google.com/drive/u/1/folders/1tooBcf1SBABhM5oMPGYyZmiJ8KSjhiaX)
+- 👨‍💻 All of my projects are available at [my portfolio](https://drive.google.com/drive/u/1/folders/1tooBcf1SBABhM5oMPGYyZmiJ8KSjhiaX)
 
 - 📫 Reach me here **rupanihiteshabc@gmail.com**
 
