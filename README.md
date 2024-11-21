@@ -9,7 +9,7 @@
 
 - 📫 Reach me here **rupanihiteshabc@gmail.com**
 
-- 📄 Checkout my resume [here](https://drive.google.com/file/d/12Wx44LDAEsRXAcsDweafQBo1TDOaqykS/view?usp=sharing)
+- 📄 Checkout my resume [here](https://drive.google.com/file/d/1ZKaDe8pSRmTSqapeLDGcE-XfmbvyULqt/view?usp=sharing)
 
 - ⚡ Fun fact **I like golden retrievers and orange cats :)**
 
