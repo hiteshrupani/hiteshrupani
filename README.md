@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Hitesh Rupani</h1>
 <h3 align="left">A passionate iOS Developer from India</h3>
 
-- 🌱 I’m currently learning **DSA, Java, iOS Development, Flutter and more...**
+- 🌱 I’m currently learning **iOS Development, DSA, Java, and more...**
 
 - 💬 Ask me about **iOS Development, Swift, SwiftUI, UIKit, Firebase**
 
 - 👨‍💻 All of my projects are available [here](https://drive.google.com/drive/u/1/folders/1tooBcf1SBABhM5oMPGYyZmiJ8KSjhiaX)
 
-- 📫 Reach me here **rupanihiteshabc@gmail.com**
+- 📫 Reach me at **rupanihiteshabc@gmail.com**
 
 - 📄 Checkout my resume [here](https://drive.google.com/file/d/1ZKaDe8pSRmTSqapeLDGcE-XfmbvyULqt/view?usp=sharing)
 
